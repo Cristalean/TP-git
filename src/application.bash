@@ -1,4 +1,6 @@
-### Application.bash - 201x - Axel Lefort ###
-echo "version 1.1"
-echo "Copyright Money.inc - 201x"
-echo "Build : 10:00"
+### Application.bash - 201x - Axel LEFORT ###
+version = "2"
+build_hour = "11H00"
+
+echo "Build ${build_hour}"
+echo "version ${version}"
